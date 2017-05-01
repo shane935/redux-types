@@ -1,0 +1,19 @@
+{
+  "name": "@types/recompose",
+  "version": "0.22.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shane935/DefinitelyTyped.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shane935/DefinitelyTyped/issues"
+  },
+  "homepage": "https://github.com/shane935/DefinitelyTyped#readme"
+}
